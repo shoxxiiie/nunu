@@ -1,1 +1,2 @@
 Hello from file4
+Conflict change in master
